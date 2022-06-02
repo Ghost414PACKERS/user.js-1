@@ -5,7 +5,6 @@ user_pref("dom.enable_resource_timing",				false);
 user_pref("dom.enable_user_timing",				false);
 user_pref("dom.webaudio.enabled",				false);
 user_pref("geo.enabled",					false);
-user_pref("geo.wifi.uri", "https://location.services.mozilla.com/v1/geolocate?key=%MOZILLA_API_KEY%");
 user_pref("geo.wifi.logging.enabled", false);
 user_pref("dom.mozTCPSocket.enabled",				false);
 user_pref("dom.storage.enabled",		false);
